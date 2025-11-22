@@ -5,5 +5,3 @@ sidekiq: bundle exec sidekiq -r ./config/sidekiq.rb
 firmware_poller: bin/pollers/firmware
 screen_poller: bin/pollers/screen
 model_poller: bin/pollers/model
-
-
